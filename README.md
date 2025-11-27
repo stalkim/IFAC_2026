@@ -9,7 +9,7 @@ The project demonstrates a robust control framework that decouples geometric pat
 Below are the animated visualizations of the proposed control law performance in two test scenarios.
 
 ### 1. Line Path Scenario
-The quadrotor follows a straight-line trajectory. The animation shows convergence to the path with independent speed regulation.
+The quadrotor follows a straight-line trajectory. The animation shows convergence to the path while maintaining the desired constant velocity.
 
 ![Line Path Animation](Line.gif)
 
@@ -22,5 +22,5 @@ A complex 3D helix trajectory ("Spring") requiring simultaneous coordination of 
 This paper addresses the coordinated path following control problem for a quadrotor UAV under parametric uncertainties and external disturbances. The coordinated control framework decouples geometric path convergence from temporal constraints, enabling independent speed regulation along the path. An enhanced extended state observer reconstructs unmeasured velocity states and compensates for lumped disturbances.
 
 ---
-**Authors:** Stanislav Kim, Anton Pyrkin, Oleg Borisov  
+**Authors:** Stanislav Kim, Anton Pyrkin  
 **Affiliation:** ITMO University, Saint Petersburg, Russia
