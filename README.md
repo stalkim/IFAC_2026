@@ -22,5 +22,5 @@ A complex 3D helix trajectory ("Spring") requiring simultaneous coordination of 
 This paper addresses the coordinated path following control problem for a quadrotor UAV under parametric uncertainties and external disturbances. The coordinated control framework decouples geometric path convergence from temporal constraints, enabling independent speed regulation along the path. An enhanced extended state observer reconstructs unmeasured velocity states and compensates for lumped disturbances.
 
 ---
-**Authors:** Stanislav Kim, Anton Pyrkin  
+**Authors:** Stanislav Kim, Anton Pyrkin, Oleg Borisov
 **Affiliation:** ITMO University, Saint Petersburg, Russia
